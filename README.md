@@ -1,8 +1,13 @@
-# rli_template
-Template repository for creating new projects under the RLI's umbrella
+# Do-a-thon for OpenMod January 2020 in Berlin
 
-## Get started
+## Requirements
 
-Simply click on the green `Use this template` button on the left of the `Clone or download` button.
+* python 3.6 or higher
 
-The detailed instructions to create a new repository from this template can be found [here](https://help.github.com/en/articles/creating-a-repository-from-a-template).
+## Getting started
+
+1. Clone the repository locally.
+2. Setup a virtual environment. 
+3. Install the dependencies `pip install -r requirements.txt`.
+4. run the app locally with `python app.py`, you can visualize it in your browser under 
+`http://127.0.0.1:8050`.
