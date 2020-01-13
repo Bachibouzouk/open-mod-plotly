@@ -1,5 +1,12 @@
 # Do-a-thon for OpenMod January 2020 in Berlin
 
+Very often data is conveyed to the public or shared with other researchers in the
+form of graphs. In the case of large datasets there is often many ways to visualize the data, which
+ultimately depend on the end-user interests or preferences. Plotly Dash is very handy for building
+data visualization apps with custom user interfaces in pure Python. Since Dash apps are viewed in
+the web browser, Dash is inherently cross-platform and mobile ready. The apps can be deployed
+locally or to servers. We will build a simple Dash app together.
+
 ## Requirements
 
 * python 3.6 or higher
